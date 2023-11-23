@@ -2,7 +2,10 @@
 void main()
 {
   add();
-sub();
+sub()
+{
+  printf("Difference of a and b = %d",a-b);
+}
 mul();
 div();
 }
