@@ -1,8 +1,11 @@
 #include<stdio.h>
 void main()
 {
-  add();
-sub();
-mul();
-div();
+  add()
+{
+  printf("Sum of a and b",a+b);
+}
+  sub();
+  mul();
+  div();
 }
